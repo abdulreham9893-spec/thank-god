@@ -1,0 +1,432 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.all{width: auto;
+  height: 100vh; /* Full screen height — change if needed */
+  background-image: url('img/header.png'); /* Replace with your image */
+    background-size: cover;   /* Shows the full image without cutting */
+  background-position: center; /* Keeps image centered */
+  background-repeat: no-repeat;/* No repeating */
+
+}
+header{
+    display: flex;
+    justify-content:center; 
+    margin: auto;
+     align-items: center; 
+    
+}
+.img{
+    width: 50px;
+    margin-top: 87px;
+    margin-left: -1180px; 
+     backdrop-filter: blur(20px);
+      border: 1px solid #FFFFFF; 
+      display: flex;
+      background: #FFFFFF99;
+      border-radius: 100%; padding: 20px; position: absolute;
+}
+#Home{
+    margin-left: 30px;
+}
+.nav div{
+    width: 40;
+     height: 20; 
+     opacity: 1; 
+     top: 80px; 
+     left: 789px;
+      font-family: Poppins;
+       font-weight: 500;
+        font-style: Medium;
+        margin: 0;
+         font-size: 20px;
+          line-height: 20px;
+           letter-spacing: 0%;
+            color: #4C1D95;
+}
+.nav button{
+     background: none; 
+     border-style: none ;
+      width: 156px; 
+      font-family: Poppins; 
+      font-weight: 700; 
+      font-style: Bold;
+       font-size: 20px; 
+       letter-spacing: 0%;
+         opacity: 1; 
+      color: #4C1D95;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    background-color: #FFFFFF99;
+     gap: 20px; width: 1130px; opacity: 1;
+border-width: 1px;
+border-radius: 10px;
+padding: 23px;
+margin-top: 87px;
+    }
+    .story{
+         background-color: #170E32;
+         width: auto;
+    }
+    .our{
+         width:auto;
+                             height: 74;
+                             margin: auto;
+                             text-align: center;
+                             font-size: 30px;
+                             opacity: 1;
+                              font-family: My Fair Cody;
+                               font-weight: 400; 
+                               font-style: Regular;
+                                font-size: 72px; 
+                                line-height: 74px;
+                                 letter-spacing: 0%; 
+                                 text-transform: uppercase;
+                                  color: #FFFFFF;
+                              text-align: center;
+                                
+    }
+    .para{
+        margin: auto;
+         width: 908.0000610351568px;
+          height: 500px;
+           top: 924px;
+            left: 187px;
+             border-radius: 12px; 
+             opacity: 1;
+              background: linear-gradient(90deg, #4C1D95 0%, #D015FF 100%);
+               padding: 50px;
+    }
+    .des{
+        width: auto;
+        text-align: center;
+        color: white;
+         width: 921px; height: 480; top: 988px; left: 259px; opacity: 1; font-family: Poppins; font-weight: 400; font-style: Regular; font-size: 20px; line-height: 150%; letter-spacing: 0%; 
+
+    }
+    .col{
+        
+         width:auto;
+                             height: 74;
+                             margin: auto;
+                             text-align: center;
+                             font-size: 30px;
+                             opacity: 1;
+                              font-family: My Fair Cody;
+                               font-weight: 400; 
+                               font-style: Regular;
+                                font-size: 72px; 
+                                line-height: 74px;
+                                 letter-spacing: 0%; 
+                                 text-transform: uppercase;
+                                  color: #FFFFFF;
+                              text-align: center;
+    }
+    .img1{
+    display: flex;
+     margin-top: 50px; 
+     width: 20  0px;
+     height: 316px; 
+     border-radius: 12px; 
+     border-width: 1px; 
+     opacity: 1; 
+     gap: 10px;
+    margin-left: 30px; }
+    .road{
+        width: 800px;
+    }
+.op{ text-align: center; margin: auto; position: absolute; padding: 25px; border-radius: 100%; margin-top: 0px; margin-left: 45%; font-family: Poppins; border: 1px solid #FFFFFF; background-color: #170E32; } 
+.op h1{
+     font-family: Poppins; font-weight: 700; font-style: Bold; font-size: 36px; line-height: 36px; letter-spacing: 0%; color: #FFFFFF; position: relative;
+}
+.op2{ z-index: 1; /* above the pseudo-element */ } 
+.op2::after{ content: ""; position: absolute; transform: translateY(-50%) rotate(90deg); /* center & rotate */ width: 350px; height: 350px; border-radius: 50%; box-shadow: 0px -7px 0px 0px #fff; margin-left: -160px; margin-top: 190px; z-index: -1; /* behind the text */ } 
+.Grab{ font-family: Poppins; font-weight: 300; font-style: Light; font-size: 20px; line-height: 150%; letter-spacing: 0%; width: 432px; height: 150px; background: linear-gradient(287.56deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0) 100%); padding: 30px; border-radius: 12px; margin-left: 80px; margin-top: 100px; position:s; opacity: 1; color: #FFFFFF; } 
+.op3{  text-align: center; margin: auto; position: absolute; padding: 25px; border-radius: 100%; margin-top: 45px; margin-left: 45%; font-family: Poppins; border: 1px solid #FFFFFF; background-color: #170E32; } 
+.op3 h1{ font-family: Poppins; font-weight: 700; font-style: Bold; font-size: 36px; line-height: 36px; letter-spacing: 0%; color: #FFFFFF; position: relative; } 
+.op4{ z-index: 1; /* above the pseudo-element */ } 
+.op4::after{ content: "";
+     position: absolute;
+      transform: translateY(-50%) rotate(270deg); 
+      /* center & rotate */ width: 350px;
+       height: 350px;
+        border-radius: 50%;
+         box-shadow: 0px -7px 0px 0px #fff; 
+         margin-left: -260px;
+          margin-top: 210px; 
+          z-index: -1; /* behind the text */
+         } .grab{ font-family: Poppins; 
+            font-weight: 300;
+             font-style: Light; 
+             font-size: 20px;
+              line-height: 150%;
+               letter-spacing: 0%;
+                width: 432px;
+                 color: #FFFFFF;
+                  padding: 50px;
+                   padding-right: 30px;
+                    padding-left: 30px;
+                     margin-right: 90px;
+                      border-radius:12px ;
+                       margin-left:auto;
+                        margin-top: 150px;
+                         background: linear-gradient(287.56deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0) 100%);
+                         } 
+                         .sop{ 
+                             text-align: center;
+                              margin: auto;
+                               position: absolute;
+                                padding: 25px;
+                                 border-radius: 100%;
+                                  margin-top: 120px;
+                                   margin-left: 45%;
+                                    font-family: Poppins;
+                                     border: 1px solid #FFFFFF;
+                                      background-color: #170E32;
+                                     } 
+
+.sop h1{ font-family: Poppins; font-weight: 700; font-style: Bold; font-size: 36px; line-height: 36px; letter-spacing: 0%; color: #FFFFFF; position: relative; }
+
+
+
+
+    .half{ z-index: 1; /* above the pseudo-element */ } 
+    .half::after{ content: ""; position: absolute; transform: translateY(-50%) rotate(90deg); /* center & rotate */ width: 350px; height: 350px; border-radius: 50%; box-shadow: 0px -7px 0px 0px #fff; margin-left: -170px; margin-top: 230px; z-index: -1; /* behind the text */ } 
+    .grab1{ font-family: Poppins; font-weight: 300; font-style: Light; font-size: 20px; line-height: 150%; letter-spacing: 0%; width: 432px; color: #FFFFFF; padding: 50px; padding-right: 30px; padding-left: 60px; margin-right: 90px; border-radius:12px ; margin-left: 50px; margin-top: 290px; background: linear-gradient(287.56deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0) 100%);}
+    .midhalf{  text-align: center; margin: auto; position: absolute; padding: 25px; border-radius: 100%; margin-top: 60px; margin-left: 45%; font-family: Poppins; border: 1px solid #FFFFFF; background: linear-gradient(132.78deg, #D015FF -22.63%, #5D85FF 123.87%); } 
+    .midhalf h1{ font-family: Poppins; font-weight: 700; font-style: Bold; font-size: 36px; line-height: 36px; letter-spacing: 0%; color: #FFFFFF; position: relative; }
+    #mid{ z-index: 1; } 
+    #mid::after{ content: ""; position: absolute; transform: translateY(-50%) rotate(270deg); /* center & rotate */ width: 350px; height: 350px; border-radius: 50%; box-shadow: 0px -7px 0px 0px #fff; margin-left: -240px; margin-top: 220px; z-index: -1; /* behind the text */ } 
+    #grab{ font-family: Poppins; font-weight: 300; font-style: Light; font-size: 20px; line-height: 150%; letter-spacing: 0%; width: 432px; height: 60px; margin-left: auto; margin-top: 280px; margin-right: 60px; opacity: 1; color: #FFFFFF; padding: 50px; background: linear-gradient(287.56deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0) 100%); } 
+    .full{   text-align: center; margin: auto; position: absolute; padding: 25px; border-radius: 100%; margin-top: 10px; margin-left: 45%; font-family: Poppins; border: 1px solid #FFFFFF; background: #170E32; } 
+    #full{ font-family: Poppins; font-weight: 700; font-style: Bold; font-size: 36px; line-height: 36px; letter-spacing: 0%; color: #FFFFFF; position: relative; } #fullgrab{ font-family: Poppins; font-weight: 300; font-style: Light; font-size: 20px; line-height: 150%; letter-spacing: 0%; width: 432px; height: 60px; margin-top: 130px; margin-left: 60px; margin-bottom: 90px; padding-top: 30px; opacity: 1; color: #FFFFFF; padding: 50px; background: linear-gradient(287.56deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0) 100%); }
+ .or{
+ 
+         width:auto;
+                             height: 74;
+                             margin: auto;
+                             text-align: center;
+                             font-size: 30px;
+                             opacity: 1;
+                              font-family: My Fair Cody;
+                               font-weight: 400; 
+                               font-style: Regular;
+                                font-size: 72px; 
+                                line-height: 74px;
+                                 letter-spacing: 0%; 
+                                 text-transform: uppercase;
+                                  color: #FFFFFF;
+                              text-align: center;}
+
+                              .Charity{
+text-align: center;
+width: 700px;
+margin: auto;
+color: #FFFFFF;
+font-size: 18px;
+height: 120px;
+    top: 4096px;
+    left: 297px;
+    opacity: 1;
+    font-family: Poppins;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+                              }
+                              .charityimage{
+                                display: flex;
+                              }
+                               .ch{ width: 413px; height: 413px; opacity: 1; border-radius: 12px; border-width: 1px; margin-top: 60px; margin-left: 30px; } 
+                               .ch1{ position: relative; }
+                                .ch1 h1{ position: absolute; top: 350px; left: 20px; width: 387px; height: 18px; opacity: 1; font-family: Poppins; font-weight: 600; font-style: SemiBold; font-size: 18px; line-height: 18px; letter-spacing: 0%; margin-left: 50px; color: #FFFFFF; 
+                                } 
+                                .ch1 p{ position: absolute; 
+                                    top: 380px; 
+                                    left: 20px;
+                                     width: 387px
+                                     ;
+                                      font-family: Poppins;
+                                       font-weight: 400; 
+                                       font-style: Regular; 
+                                       font-size: 12px; 
+                                       line-height: 150%; 
+                                       letter-spacing: 0%;
+                                        color: #94A3B8; 
+                                        margin-left: 50px; 
+                                    } .ch1 a{ 
+                                        position: absolute;
+                                         top: 420px;
+                                          left: 30px;
+                                           margin-left: 40px;
+                                            width: 387px;
+                                             color: #FFFFFF;}
+                                              .ch2 { position: relative; }
+                                               .ch2 h1{ position: absolute;
+                                                 top: 390px; 
+                                                 left: 20px;
+                                                 width: 258;
+                                                  height: 18;
+                                                   opacity: 1; 
+                                                   font-family: Poppins;
+                                                    font-weight: 600;
+                                                     font-style: SemiBold;
+                                                      font-size: 18px; 
+                                                      line-height: 18px; 
+                                                      letter-spacing: 0%;
+                                                       margin-left: 50px; 
+                                                       color: #FFFFFF;
+                                                    } .ch3{ position: relative; }
+                                                     .ch3 h1{ position: absolute; 
+                                                        top: 413px; 
+                                                        left: 20px;
+                                                         width: 258;
+                                                          font-family: Poppins;
+                                                           font-weight: 600; 
+                                                           font-style: SemiBold;
+                                                            font-size: 18px;
+                                                             line-height: 18px; 
+                                                             letter-spacing: 0%;
+                                                              margin-left: 50px; 
+                                                              color: #FFFFFF;} 
+                                                              .png{ width: 413px; height: 413px; opacity: 1; border-radius: 12px; border-width: 1px; margin-top: 60px; margin-left: 100px; } .charityimg{ display: flex; margin-left: 130px; } .ch4{ position: relative; } .ch4 h1{ position: absolute; top: 410px; left: 140px; font-family: Poppins; font-weight: 600; font-style: SemiBold; font-size: 18px; line-height: 18px; letter-spacing: 0%; color: #FFFFFF; width: 387px; } .ch5{ position: relative; } .ch5 h1{ position: absolute; top: 410px; left: 70px; font-family: Poppins; font-weight: 600; font-style: SemiBold; font-size: 18px; line-height: 18px; letter-spacing: 0%; color: #FFFFFF; 
+                                                                width: 387px;}
+                .team1{
+                    
+         width:auto;
+                             height: 74;
+                             margin: auto;
+                             text-align: center;
+                             font-size: 30px;
+                             opacity: 1;
+                              font-family: My Fair Cody;
+                               font-weight: 400; 
+                               font-style: Regular;
+                                font-size: 72px; 
+                                line-height: 74px;
+                                 letter-spacing: 0%; 
+                                 text-transform: uppercase;
+                                  color: #FFFFFF;
+                              text-align: center;
+                }                                
+                .di1{ margin-left: 380px; } 
+        #im1{ width: 128px; height: 128px; position: relative; opacity: 1; margin-right: 10px; border-width: 2px; border: 3px solid rgba(255, 255, 255, 1); border-radius: 50%; } 
+        #im2{ width: 256px; height: 256px; opacity: 1; position: relative; margin-top: 40px; border-width: 3px; margin-right: 10px; border: 3px solid rgba(255, 255, 255, 1); border-radius: 50%; }
+            #im3{width: 128px; height: 128px; opacity: 1; border-width: 2px; border: 3px solid rgba(255, 255, 255, 1); border-radius: 50%; } 
+            .di{ margin: auto; width: 900px; padding: 100px; padding-bottom: 40px; margin-top: 130px; opacity: 1; margin-top: -80px; border-radius: 12px; background: linear-gradient(90deg, #4C1D95 0%, #D015FF 100%); }
+     .di2{ display: flex; margin: auto; margin-top: 50px; }
+      .di2 h1{ margin:auto; color: #fff;
+         margin-top: 60px; } .How{ position: relative; margin-top: 80px; margin-right: 230px; } .How::before{ content: ""; display: block; width: 10px; height: 10px; margin-left: 30px; border-top:3px solid white; border-right: 3px solid white; transform: rotate(45deg); } .How::after{ content: ''; display: block; position: absolute; width: 50px; height: 3px; background-color: white; top: 5px; left: -6px; } .how{ position: relative; margin-left: 280px; margin-top: 80px; } .how::before{ content: ''; display: block; width: 10px; height: 10px;margin-left: -7px; border-top:3px solid white; border-right: 3px solid white; transform: rotate(225deg); } .how::after{ content: ''; display: block; position: absolute; width: 50px; height: 3px; background-color: white; top: 5px; left: -6px; } .art{ margin-top: 30px; text-align: center; font-family: Poppins; font-weight: 400; font-style: Regular; font-size: 20px; line-height: 20px; letter-spacing: 0%; color: #FFFFFF; margin-left: 30px; } .di3{ justify-content: center; align-items: center; display: flex; column-gap: 30px; margin-left: 30px; }                 
+ .frequently h1{ opacity: 1; font-family: My Fair Cody; font-weight: 400; font-style: Regular; font-size: 48px; line-height: 38px; letter-spacing: 0%; text-align: center; color: #FFFFFF; margin-top: 80px; } .view{ justify-content: center; align-items: center; margin-left:130px; }
+ .view{
+    margin-left:-45px;
+ }
+ .presale h1{
+    margin-bottom: 13px;
+ }
+ .whitelist h1{
+    margin-bottom: 13px;
+ }
+ .mintsale h1{
+    margin-bottom: 13px;
+ }
+ .view h1{ width: 630px; height: 24px; opacity: 1; margin-bottom: 13px; font-family: My Fair Cody; font-weight: 400; font-style: Regular; font-size: 24px; line-height: 24px; letter-spacing: 0%; margin-top: 80px; } 
+ .view p{ font-family: Poppins; 
+    font-weight: 400; 
+    font-style: Regular; 
+    font-size: 16px; 
+    line-height: 150%;
+     letter-spacing: 0%; 
+     color:#94A3B8; margin-left: 170px;
+      border-bottom: 1px solid #9333EA;
+       width: 570px; 
+       padding-bottom: 43px;
+     } .view1{ 
+        display: flex;
+     } .view2{ 
+        margin-left: 30px;
+     } .view3{ 
+        margin-left: 130px;
+     } .presale h1{ font-family: My Fair Cody;
+         font-weight: 400;
+          font-style: Regular;
+           font-size: 24px;
+            line-height: 24px;
+             letter-spacing: 0%;
+              opacity: 1;
+               margin-right: 0px;
+             } 
+             .presale p{
+                 font-family: Poppins;
+                  font-weight: 400;
+                   font-style: Regular;
+                    font-size: 16px;
+                     line-height: 150%;
+                      letter-spacing: 0%;
+                       opacity: 1;
+                        margin-left:40px ;
+                         color: #94A3B8;
+                          border-bottom: 1px solid #9333EA;
+                           padding-bottom:20px ;
+                            font-family: Poppins;
+                         } .view2{ 
+                            display: flex; 
+                            margin-left: -40px    ;
+                         } .whitelist h1{ 
+                            font-family: My Fair Cody;
+                             font-weight: 400;
+                              font-style: Regular;
+                               font-size: 24px;
+                                line-height: 24px;
+                                 letter-spacing: 0%;
+                                  width: 630px;
+                                   height: 24px; 
+                                   opacity: 1; 
+                                   top: 6220px; 
+                                   left: 80px; }
+                                    .whitelist p{ 
+                                        font-family: Poppins;
+                                         font-family: My Fair Cody;
+                                          font-weight: 400;
+                                           font-style: Regular;
+                                            font-size: 16px;
+                                             line-height: 24px;
+                                              letter-spacing: 0%;
+                                               width: 580px;
+                                                opity: 1;
+                                                 margin-left: 162px;
+                                                  color: #94A3B8; 
+                                                  padding-bottom: 30px;
+                                                   border-bottom: 1px solid #9333EA; }
+                                                    .mintsale h1{ 
+                                                        opacity: 1;
+                                                        font-family: My Fair Cody;
+                                                         font-weight: 400;
+                                                          font-style: Regular; 
+                                                          font-size: 24px; line-height: 24px; letter-spacing: 0%; margin-right: 280px; margin-left: 0px; 
+        font-family: My Fair Cody; 
+}
+
+.mintsale p{ font-family: Poppins; font-weight: 400; font-style: Regular; font-size: 16px; line-height: 150%; letter-spacing: 0%; color: #94A3B8; margin-left: 38px; width: 580px; height: 72px; opacity: 1; padding-bottom: 54px; border-bottom: 1px solid #9333EA; font-family: Poppins; } 
+#nft{ opacity: 1; 
+    font-family: My Fair Cody;
+     font-weight: 400;
+      font-style: Regular;
+       font-size: 22px;
+        line-height: 24px;
+         letter-spacing: 0%;
+         margin-right:10px;
+         width: 700px;
+         margin-left: -130px;
+         margin-bottom: 30px; 
+    
+    color: #FFFFFF; } #nft2{ font-family: Poppins; font-weight: 400; font-style: Regular; font-size: 16px; line-height: 150%; letter-spacing: 0%; color: #94A3B8; width: 1050px; border-bottom: 1px solid #9333EA; margin-left: 0px; padding-bottom: 20px; } .footer h1{ font-family: My Fair Cody; font-weight: 400; font-style: Regular; font-size: 56px; line-height: 56px; letter-spacing: 0%; color: #FFFFFF; padding-top: 80px; text-align: center; } .footer{ background: linear-gradient(132.78deg, #D015FF -22.63%, #5D85FF 123.87%); padding-right: 150px; padding-left: 150px; padding-bottom: 0px; width: 800px; position: relative; margin: auto; margin-top: 100px; } .frame { justify-content: center; align-items: center; display: flex; margin-left:30px ; } .frame img{ margin: 30px;} .hr{ width: 161.0000000000006px; height: 0px; opacity: 1; border-width: 1px; border: 1px solid #FFFFFF; } .t1{ width: 296px; height: 296px; opacity: 1; margin-top: 70px; margin-right: 60px; } .transparent{ display: flex; justify-content: center; align-items: center; } .road{ width: 634px; height: 210px; opacity: 1; top: 2182px; left: 403px; }
+

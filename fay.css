@@ -1,0 +1,95 @@
+#iso{
+        margin-left: -52px;
+        width: 165px;
+}
+       body #story .sop {
+            margin-left: 100px;
+            margin-top: -3px;
+        }
+         #story .mintsale p {
+            width: auto;
+            margin-right: 18px;
+            margin-left: 81px;
+            font-size: 16px;
+            margin-bottom: 0px;
+        }
+                #story div .whitelist p {
+            margin-left: 88px;
+            margin-right: 32px;
+            width: auto;
+            font-size: 9px;
+            text-align: justify;
+        }
+        #des{
+font-size: 11px;
+        }
+            .story div .view h1 {
+            width: 300px;
+            margin-left: -164px;
+        }
+            header #imo {
+            margin-left: -276px;
+            width: 34px;
+            padding: 8px;
+        }
+        header #nav button{
+            width: 40px;
+        }
+         body div .view3 #nft2 {
+        margin-left: -62px;
+        margin-right: 30px;
+        width: auto;
+        font-size: 11px;
+    }
+    #story .art{
+        font-size: 12px;
+    }
+       body .di2 h1 {
+        margin-left: 41px;
+        font-size: 18px;
+    }
+    #story .how::after {
+    content: '';
+    display: block;
+    position: absolute;
+    width: 50px;
+    height: 3px;
+    background-color: white;
+    top: 5px;
+    left: -14px;
+}
+#story .how::before{
+    content: '';
+    display: block;
+    width: 10px;
+    height: 10px;
+    margin-left: -16px;
+    border-top: 3px solid white;
+    border-right: 3px solid white;
+    transform: rotate(225deg);
+}
+#story .How::before {
+    content: "";
+    display: block;
+    width: 10px;
+    height: 10px;
+    margin-left: 26px;
+    border-top: 3px solid white;
+    border-right: 3px solid white;
+    transform: rotate(45deg);
+}
+#story .How::after{
+    content: '';
+    display: block;
+    position: absolute;
+    width: 50px;
+    height: 3px;
+    background-color: white;
+    top: 5px;
+    left: -13px;
+}
+       #story div .presale p {
+            font-size: 9px;
+            width: 287px;
+            margin-left: 57px;
+        }

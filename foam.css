@@ -1,0 +1,383 @@
+
+.all{
+    width: auto;
+}
+        .story{
+            width:auto;    
+        }
+        .des{
+            font-size: 12px;
+        text-align: center;
+        width: auto;
+        }
+    .img1{
+        display: inline-block;
+    margin-left:0px;
+    width: 300px;
+    }
+    .im{
+        margin-left: 0px;
+    }
+        .para{
+            width: 500px;
+        text-align: center;
+        }
+        .img{
+            margin-left: -655px;
+            width: 32px;
+        }
+
+        .charityimage{
+            display: inline-block;
+            margin: auto;
+            width: 300px;
+            margin-left: 0px;
+        }
+        .charityimg{
+            display: block;
+            margin: auto;
+        }
+        .di{
+            width:auto ;
+        }
+        .view1{
+            display: block;
+        }
+        .view2{
+            display: block;
+        }
+        .nav{
+            margin-left: 93px;
+        }
+        .nav div{
+            font-size: 13px;
+        }
+        .nav button{
+            font-size: 13px;
+            width: 80px;
+        }
+        .im{
+            margin-left: 68%;
+            margin-bottom: 10px;
+        }
+        .Charity{
+            font-size: 13px;
+        }
+        #cj{
+            margin-left: 251px;
+            max-width: 400px; 
+        }
+        .ch1 p{
+            width: 200px;
+            margin-left: 273px;
+        }
+            .ch1 h1 {
+        margin-left: 270px;
+        width: 128px;
+    }
+        .ch1 a{
+            margin-left: 265px;
+            margin-top: 10px;
+        }
+        .ch2 img{
+            margin-left:241px ;
+            width: 400px
+        }
+            .ch2 h1 {
+        margin-left: 273px;
+        width: 245px;
+    }
+    .ch3 img{
+        margin-left: 243px;
+    width: 400px;}
+        .ch3 h1 {
+        margin-left: 275px;
+        width: 181px;
+    }
+#png    {
+    margin-left: 232px;
+}
+.ch4 h1{        margin-left: 139px;}
+#ch6{
+    margin-left: 241px;}
+    .ch5 h1{
+        margin-left: 217px;
+    }     
+    .view h1{
+        margin-left: -524px;
+    }  
+    
+    .transparent img{
+        width: 130px;
+  }
+    #t{
+        margin-left: -20px;
+    }
+    .view{
+        margin-left: 230px;
+    }
+    .presale{
+        margin-left: 90px;
+    }
+    .whitelist{
+        margin-left: 254px;
+    }
+            .whitelist h1 {
+            margin-left: -85px;
+            margin-right: 30px;
+            width: auto;
+        }
+
+            .view p {
+            margin-left: -92px;
+            font-size: 20px;
+            width: auto;
+            text-align: justify;
+        }
+    .mintsale{
+margin-left: 123px;
+    }
+        .presale p {
+        width: auto;
+        margin-right: 81px;
+    }
+        .mintsale p {
+        width: auto;
+        margin-left: 48px;
+        margin-right: 30px;
+    }
+
+    .mintsale h1{
+        margin-left: 50px;
+    }
+            #nft {
+            margin-left: -250px;
+            margin-right: 138px;
+            width: auto;
+            font-size: 18px;
+        }
+                div .whitelist p {
+            margin-left: -87px;
+            margin-right: 84px;
+            width: auto;
+            font-size: 20px;
+            text-align: justify;
+        }
+    #im1{
+margin-left: 0px;
+    }
+    #nft2{
+        width: 571px;
+    }
+    .view3{
+        margin-left: 220px;
+    }
+    .t1{
+        margin: 25px;
+    }
+    .op{
+        margin-left: 289px;
+    }
+    .op3{
+        margin-left: 289px;
+        margin-top: 60px;
+    }
+    .sop{
+        margin-left: 289px;
+        margin-top: 30px;
+    }
+    .midhalf{
+        margin-left: 289px;
+        margin-top: -1px;
+    }
+    .Grab{
+        padding: 3px;
+    }
+    .full{
+       margin-top: 90px;
+        margin-left: 289px;
+    }
+    .grab{
+        margin-left: 424px;
+        
+    }
+    .grab1{
+        margin-top: 220px;
+    }
+    #grab{
+        margin-left: 405px;
+    width: auto;
+    padding: 0;
+    }
+    #fullgrab{
+        padding: 0;
+        width: auto;
+    }
+    @media screen and (max-width:779px) {
+        .grab{
+            margin-left: 372px;
+            width: auto;
+        }
+    .mintsale h1{
+        width: auto;
+    }
+    }
+    @media screen and (max-width:720px) {
+        #cj{
+            margin-left: 174px;
+        }
+        .ch1 h1{
+            margin-left: 206px;
+        }
+        .ch1 p{
+            margin-left: 200px;
+        }
+        .ch1 a{
+            margin-left: 199px;
+        }
+        .ch2 img{
+            margin-left: 173px;
+        }
+        .ch2 h1{
+            margin-left: 215px;
+        }
+        .ch3 img{
+            margin-left: 176px;
+        }
+        .ch3 h1{
+            margin-left: 222px;
+        }
+        #png{
+            margin-left:171px ;
+        }
+        .ch4 h1{
+            margin-left: 86px;
+        }
+        .ch5 h1{
+            margin-left: 159px;
+        }
+        #ch6{
+                margin-left: 174px;
+        }
+        .view p{
+            width: auto;
+   margin-left: -158px;
+        }
+        .presale h1{
+            width: auto;
+        margin-left: -14px;
+        }
+        .presale p{
+            width: auto;
+margin-left: -14px;
+        }
+        .whitelist h1{
+            width: auto;
+            margin-left: -138px;
+        }
+        .whitelist p{
+            width: auto;
+            
+            margin-left: -138px;
+        }
+        .mintsale h1{
+            width: auto;
+            margin-left: 0;
+        }
+        .mintsale p{
+            width: auto;
+            margin-left: 0;
+        }
+   #nft{
+    margin-left: -202px;
+   }
+   #nft2{
+    margin-left: -145px;
+   }
+   .Charity{
+    width: auto;
+   }
+    }
+    @media screen and (max-width:820px) {
+            .nav {
+        margin-left: 115px;
+    }
+        .img {
+        margin-left: -578px;
+        width: 41px;
+    }
+         .im {
+        margin-left: 79%;
+        margin-bottom: 10px;
+        max-width: 100%;
+    }
+        #nft {
+        margin-left: -250px;
+        font-size: 21px;
+    }        .view3 #nft2 {
+            margin-left: -119px;
+            margin-right: 30px;
+            width: auto;
+            font-size: 18px;
+        }    .mintsale p {
+        font-size: 18px;
+        width: auto;
+        line-height: 40ox;
+        margin-bottom: 47px;
+        margin-left: 36px;
+        margin-right: 36px;
+    }    .mintsale h1{
+        margin-left: 41px;
+    }
+            div .whitelist p {
+            margin-left: -87px;
+            margin-right: 56px;
+            width: auto;
+            font-size: 20px;
+            text-align: justify;
+        }.whitelist h1 {
+            margin-left: -81px;
+            margin-right: 30px;
+            width: auto;
+        }    .presale p {
+        width: auto;
+        margin-right: 42px;
+    }        .presale h1 {
+            margin-left: 40px;
+            margin-right: 30px;
+            width: auto;
+            font-size: 22px;
+            text-align: justify;
+        }        .view p {
+            margin-right: 65px;
+            margin-left: -105px;
+            font-size: 20px;
+            width: auto;
+            text-align: justify;
+        }    .view h1 {
+        margin-left: -524px;
+    }.ch2 h1 {
+        margin-left: 256px;
+        width: 245px;
+    }
+        .ch1 h1 {
+        margin-left: 267px;
+        width: 200px;
+    }
+    .ch3 h1 {
+        margin-left: 270px;
+        width: 187px;
+    }
+    .ch4 h1 {
+        margin-left: 139px;
+    }
+        .ch5 h1 {
+        margin-left: 217px;
+    }
+        .t1 {
+        margin: 28px;
+    }
+        .transparent img {
+        width: 152px;
+    }
+    }
